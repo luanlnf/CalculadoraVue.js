@@ -11,9 +11,9 @@
 </template>
 
 <script>
-import Intro from './components/Intro.vue';
-import CalculatorNormal from './components/CalculatorNormal.vue';
-import CalculatorScientific from './components/CalculatorScientific.vue';
+import Intro from './Components/Intro.vue';
+import CalculatorNormal from './Components/CalculatorNormal.vue';
+import CalculatorScientific from './Components/CalculatorScientific.vue';
 
 export default {
   name: 'App',
