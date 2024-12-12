@@ -36,8 +36,3 @@ O projeto foi dividido em componentes Vue.js para facilitar a manutenção e reu
 - **HTML/CSS**: Utilizado para estruturar e estilizar a página, criando um layout responsivo e agradável.
 - **Vue CLI**: Ferramenta de inicialização para gerenciar o projeto Vue.js.
 
-## Como Rodar o Projeto
-
-1. Clone o repositório:
-   ```bash
-   git clone <URL do repositório>
